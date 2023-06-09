@@ -1,6 +1,6 @@
 # INSTA REAGE
 
-## Instructions:
+### Instructions:
 
 - Run `npm install`
 - Edit the `config.json`
