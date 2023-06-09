@@ -4,8 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ./index.js"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Gil Vieira <ogilvieira@gmail.com>",
+  "license": "ISC",
+  "homepage": "https://github.com/owner/project#readme" 
 }
